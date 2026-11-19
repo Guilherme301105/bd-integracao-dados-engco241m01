@@ -4,4 +4,4 @@ Lista das equipes, montada a partir dos forks. Cada equipe preenche o nome do ti
 
 | Time | Integrantes (usuário do GitHub) | Fork |
 | --- | --- | --- |
-| a preencher | abnerlime (dono do fork) | [abnerlime/bd-integracao-dados-engco241m01](https://github.com/abnerlime/bd-integracao-dados-engco241m01) |
+| Quarteto-Fanstastico | Guilherme-Eng3011(Dono do fork) | Guilherme-Eng3011/bd-integracao-dados-engco241m01](https://github.com/Guilherme301105/bd-integracao-dados-engco241m01)]
